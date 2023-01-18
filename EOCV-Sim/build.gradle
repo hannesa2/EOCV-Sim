@@ -10,7 +10,7 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'io.github.classgraph:classgraph:4.8.94'
 
-    implementation 'com.formdev:flatlaf:0.45'
+    implementation 'com.formdev:flatlaf:3.0'
     implementation 'com.formdev:flatlaf-intellij-themes:0.45'
 
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
